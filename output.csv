@@ -1,6 +1,6 @@
-name
-Bill Smith
-John Jones
-Tom Smithfield
-Tina Turner
-Tim Clark
+name,value_match
+Bill Smith,
+John Jones,jon jones
+Tom Smithfield,tommy smithfield
+Tina Turner,tina turner
+Tim Clark,
